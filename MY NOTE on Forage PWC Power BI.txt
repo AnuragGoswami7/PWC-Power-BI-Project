@@ -1,0 +1,91 @@
+1> Client Name: PhoneNow.
+
+
+------------------ Questions they asked to solve ----------------------------
+
+2> Looking for transparency and insights into the data of the Call Center. 
+
+    > Total number of calls answered and abandoned.  <>  _/
+
+    > Overall customer satisfaction.  <> _/
+
+    > Maximum and Minimum length of a Call <> _/
+
+    > Average speed of answer. <> _/
+
+    > Agent’s performance quadrant -> average handle time (talk duration) vs calls answered ** Dashboard _/
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+3> Looking for an accurate overview of long-term trends in customer and agent behaviour.
+
+4> ------------------------------------------My Add on Questions----------------------------------------------------------
+ 
+  > Which is the most popular topic people like to talk about? ** Dashboard _/
+
+  > How many topics have been resolved and how many not resolved(Try to answer it through percentage). <>
+
+  > Success percentage of the Agents:
+
+     # Who answered the most calls and what is the person's average speed of picking up the call.  <>
+       What is the person's longest talk duration and what is his/her Resolve Ratio (Both Y and N). Also find his/her Satisfaction percentage. _/
+
+     
+  > Busyest time in the office. ** DAsHboard   _/
+  
+  > Which Month was the busyest. <> _/
+
+--------------------------------------------------------------------------------------------------------------------------    
+
+------------------------------------------------------- Task 2------------------------------------------------------------
+
+5> Create a dashboard using the defined KPIs to reflect customer demographics and insights.
+
+6> Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
+
+7> ------------------ Inputs of the tasks ----------------------------
+
+     > Customers who left within the last month. ** Can't DO
+
+     > Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support
+       and streaming TV and movies.
+
+     > Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges
+       and number of tickets opened in the categories administrative and technical.
+
+     > Demographic info about customers – gender, age range, and if they have partners and dependents.
+
+8> ------------------------------------------My Add on Questions----------------------------------------------------------
+
+    > How many customers are taking the service of phone, multiple lines, internet, online security, online backup, device protection, tech support
+       and streaming TV and movies. <> ** DASHBOARD
+
+    > Whats is the Average, minimum and maximum Tenure of the customer taking the services. After which month the Customers mostly Churned (Find the Average). <> **DASHBOARD
+
+    > How many Customers have Month-to-Month, One Year, Two year Contract. Which is the most taken Contract. <>
+      The Churned Customer mainly choosed which Contract. (** Dashboard)  ** DASHBOARD
+
+    > What is the variables of Payment Methods. Which Payment Methods are mostly prefered. The Churned Customer mainly choosed which Payment Methods. <> and (** Dashboard)
+
+    > What is the Average, Minimum, Maximum and Sum of Monthly Charge. Also find for the CHurned Customers <>
+
+    > What is the Average, Minimum, Maximum and Sum of Total Charge. Also find for the CHurned Customers <>
+   
+    > What is the Average Adim Tickets and Tech Tickets Raised 
+
+    > ID of Loyal CUstomers and Churned Customers
+
+    > Which Gender has the most Sign Ups. Which Gender has taken the most Phone, Internet, Streaming of TV and MOvies services.
+
+    > How many Senior and Non-Senior Citizens in the list. Find it in Percentage
+
+    > How many Percent of the Citizens have Partners and Dependents both Seniour and Non Seniour.
+
+    > What is the Retention  Rate.
+
+    > WHat is the  Churn Rate     (Churn YES= LEft the business, Churn NO= Is still in the business)
+
+    > Number of Loyal Customers  (Calculate it with CHurn Column> Cust. who didn't leave)
+
+    > What is the MRR (Monthly Recurring Revenue) Growth      (CHECK MOBILE PHOTOS)
